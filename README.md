@@ -20,7 +20,7 @@ Here are some ideas that i am planning to implement:
 
 * Extendable oscillating modes: This would consist on implementing oscillating modes in a more generic way so other users can extend them and develop their own oscillating modes. For example, instead of only having a Random and Sequential oscilating mode, it could be extended to have an N-Alternator oscillating mode, that selects waves from the array that are separated by N positions.
 
-* Add an option to edit the oscillating wave with a curve editor
+* Add an option to edit oscillating waves with a curve editor
 
 # Feedback
 Any feedback on the implementation or ideas to improve/extend the plugin are more than welcome!
