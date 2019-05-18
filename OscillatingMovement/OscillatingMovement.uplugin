@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "OscillatingMovement",
+	"Description": "A simple component that adds oscillating movement to it's owner",
+	"Category": "Other",
+	"CreatedBy": "Johnathan Katan",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.20.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "OscillatingMovement",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
