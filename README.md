@@ -1,4 +1,4 @@
-# UE4OscilatingComponentPlugin
+# UE4 C++ Oscillating Movement Component
 This plugin consists of a blueprint editable component written in C++ that lets you configure custom oscillating movement.
 
 # How it works 
