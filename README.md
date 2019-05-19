@@ -18,9 +18,11 @@ Finally, you can also select one of the following oscillation modes:
 # Next steps
 Here are some ideas that i am planning to implement:
 
-* Extendable oscillating modes: This would consist on implementing oscillating modes in a more generic way so other users can extend them and develop their own oscillating modes. For example, instead of only having a Random and Sequential oscilating mode, it could be extended to have an N-Alternator oscillating mode, that selects waves from the array that are separated by N positions.
+* Extendable oscillation modes: This would consist on implementing oscillation modes in a more generic way so other users can extend them and develop their own modes. For example, instead of only having a Random and Sequential oscillation mode, it could be extended to have an N-Alternator oscillation mode, that selects waves from the array that are separated by N positions.
 
 * Add an option to edit oscillating waves with a curve editor
+
+* Extend the random oscillation mode to support the configuration of probabilistic weights to each wave, in order to have more control of which waves are more likely to be selected from the array.
 
 # Feedback
 Any feedback on the implementation or ideas to improve/extend the plugin are more than welcome!
