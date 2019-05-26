@@ -3,6 +3,8 @@ This plugin consists of a blueprint editable component written in C++ that lets 
 
 This component started as a simple functionality that i needed in a personal project i was working on. In that project, i had a camera that followed a character, and i didn't want the camera to be static when the character was idle. I wanted a more realistic effect, as if the camera was being held by a human, so i added tiny oscillations to the camera position in random directions, to give the impression of an unsteady pulse.  
 
+To see this plugin in action, check the following video: https://youtu.be/M4ZAeesNThU
+
 # How it works 
 When adding this component to an actor, you can configure an array of oscillating waves for the movement. Each oscillating wave has the following configurable parameters:
 
@@ -14,8 +16,6 @@ Finally, you can also select one of the following oscillation modes:
 
 * Random: At the end of each oscillation, a random oscillating wave will be picked from the array to execute.
 * Sequential: All the oscillating waves in the array will be executed in order. When the last wave of the array is reached, it will start again from the begining of the array.
-
-To see this plugin in action, check the following video: https://youtu.be/M4ZAeesNThU
 
 # Next steps
 Here are some ideas that i am planning to implement:
