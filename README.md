@@ -15,6 +15,8 @@ Finally, you can also select one of the following oscillation modes:
 * Random: At the end of each oscillation, a random oscillating wave will be picked from the array to execute.
 * Sequential: All the oscillating waves in the array will be executed in order. When the last wave of the array is reached, it will start again from the begining of the array.
 
+To see this plugin in action, check the following video: https://youtu.be/M4ZAeesNThU
+
 # Next steps
 Here are some ideas that i am planning to implement:
 
